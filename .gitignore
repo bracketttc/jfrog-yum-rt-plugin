@@ -7,6 +7,9 @@
 tmp
 out
 
+# Vsgrant lical cache
+/.vagrant
+
 # Template executable
 jfrog-cli-plugin-template
 
